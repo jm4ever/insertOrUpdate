@@ -1,0 +1,24 @@
+{
+  "apps": {
+    "default": {
+      "baseUrl": "http://47.94.3.222:3168/api/v2/open",
+      "appKey": "88f51dc127d40d50",
+      "sign": "ZjM4ZDE3MThiNGZhMzExMjMwNmFhZDZlZTZmZDZiMmNmMzBhNTNmYzhmZDBlZmVkNzM1N2YxNDkxZDdmY2Q4OQ=="
+    },
+    "app2": {
+      "baseUrl": "http://47.94.3.222:3168/api/v2/open",
+      "appKey": "app2_key_here",
+      "sign": "app2_sign_here"
+    }
+  },
+  "tables": {
+    "user": {
+      "worksheetId": "yonghubiao",
+      "appId": "default"
+    },
+    "user2": {
+      "worksheetId": "yonghubiao2",
+      "appId": "default"
+    }
+  }
+}

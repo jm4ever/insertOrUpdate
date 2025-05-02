@@ -1,0 +1,19 @@
+# 排除node模块
+node_modules
+npm-debug.log
+
+# 排除日志文件
+log/*
+!log/.gitkeep
+
+# 排除文档和图片
+doc/
+
+# 排除git相关文件
+.git
+.gitignore
+
+# 排除其他不需要的文件
+.DS_Store
+*.md
+*.drawio
